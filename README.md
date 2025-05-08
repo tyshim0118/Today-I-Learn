@@ -7,3 +7,4 @@
 #### [05 - 05](https://github.com/tyshim0118/Today-I-Learn/blob/main/2025%20-%2005%20-%2005.md)
 #### [05 - 06](https://github.com/tyshim0118/Today-I-Learn/blob/main/2025%20-%2005%20-%2006.md)
 #### [05 - 07](https://github.com/tyshim0118/Today-I-Learn/blob/main/2025%20-%2005%20-%2007.md)
+#### [05 - 08](https://github.com/tyshim0118/Today-I-Learn/blob/main/2025%20-%2005%20-%2008.md)
