@@ -22,4 +22,5 @@
 #### [05 - 20](https://github.com/tyshim0118/Today-I-Learn/blob/main/2025%20-%2005%20-%2020.md)
 #### [05 - 21](https://github.com/tyshim0118/Today-I-Learn/blob/main/2025%20-%2005%20-%2021.md)
 #### [05 - 22](https://github.com/tyshim0118/Today-I-Learn/blob/main/2025%20-%2005%20-%2022.md)
-#### [05 - 23](https://github.com/tyshim0118/Today-I-Learn/blob/main/2025%20-%2005%20-%2022.md)
+#### [05 - 23](https://github.com/tyshim0118/Today-I-Learn/blob/main/2025%20-%2005%20-%2023.md)
+#### [05 - 24](https://github.com/tyshim0118/Today-I-Learn/blob/main/2025%20-%2005%20-%2024.md)
