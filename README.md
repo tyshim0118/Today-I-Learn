@@ -40,3 +40,4 @@
 #### [06 - 07](https://github.com/tyshim0118/Today-I-Learn/blob/main/2025%20-%2006%20-%2007.md)
 #### [06 - 08](https://github.com/tyshim0118/Today-I-Learn/blob/main/2025%20-%2006%20-%2008.md)
 #### [06 - 09](https://github.com/tyshim0118/Today-I-Learn/blob/main/2025%20-%2006%20-%2009.md)
+#### [06 - 10](https://github.com/tyshim0118/Today-I-Learn/blob/main/2025%20-%2006%20-%2010.md)
