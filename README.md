@@ -57,3 +57,4 @@
 #### [06 - 24](https://github.com/tyshim0118/Today-I-Learn/blob/main/2025%20-%2006%20-%2024.md)
 #### [06 - 25](https://github.com/tyshim0118/Today-I-Learn/blob/main/2025%20-%2006%20-%2025.md)
 #### [06 - 26](https://github.com/tyshim0118/Today-I-Learn/blob/main/2025%20-%2006%20-%2026.md)
+#### [06 - 27](https://github.com/tyshim0118/Today-I-Learn/blob/main/2025%20-%2006%20-%2027.md)
