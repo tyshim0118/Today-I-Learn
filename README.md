@@ -82,3 +82,4 @@
 #### [07 - 19](https://github.com/tyshim0118/Today-I-Learn/blob/main/2025%20-%2007%20-%2019.md)
 #### [07 - 20](https://github.com/tyshim0118/Today-I-Learn/blob/main/2025%20-%2007%20-%2020.md)
 #### [07 - 21](https://github.com/tyshim0118/Today-I-Learn/blob/main/2025%20-%2007%20-%2021.md)
+#### [07 - 22 ~ 08 - 31]() 훈련소 준비와 훈련소에서 군생활 시작 이슈
